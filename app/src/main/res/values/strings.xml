@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Pinter</string>
+    <string name="waiting_to_collect_option">Waiting to collect</string>
+    <string name="already_collected_option">Already collected</string>
+    <string name="location_now">Gedung Dewi Sartika</string>
+    <string name="pick_up_code_default">Pick-Up Code</string>
+    <string name="pickup_codes">Pickup Codes</string>
+    <string name="timestamp_default">Timestamp</string>
+    <string name="has_been_collected">has been collected</string>
+    <string name="orders_menu">Orders</string>
+    <string name="home_menu">Home</string>
+    <string name="account_menu">Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_allready_collected">AllreadyCollected</string>
+    <string name="scan">Scan</string>
+    <string name="pickup_code">Pickup Code</string>
+    <string name="voucher">Voucher</string>
+    <string name="todo">TODO</string>
+    <string name="cetak_cloud">Cetak Cloud</string>
+    <string name="cetak_cloud_description">Print dari file yang tersimpan di Google Cloud</string>
+    <string name="scan_description">Scan Code untuk membayar</string>
+    <string name="voucher_description">Dapatken potongan harga dengan menggunakan voucher yang anda dapatkan</string>
+    <string name="upload_file">Upload File</string>
+    <string name="upload_file_description">Upload file yang akan anda print</string>
+    <string name="pickup_code_description">kode unik untuk print secara offline</string>
+    <string name="username">Username</string>
+</resources>
